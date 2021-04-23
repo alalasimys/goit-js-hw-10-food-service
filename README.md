@@ -1,4 +1,17 @@
 # goit-js-hw-10-food-service
 
-Домашняя работа по JS #10 выполнена с использованием localStorage, Handlebars.js
-и Webpack
+## General info
+
+This mini project implements changing light theme on dark theme with saving in localstorage.
+
+## Technologies
+
+Project is created with:
+
+- HTML & CSS
+- JavaScript ES6
+
+- Webpack
+
+- localStorage
+- Handlebars
